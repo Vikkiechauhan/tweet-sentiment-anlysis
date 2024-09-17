@@ -8,6 +8,9 @@ The goal of this project is to accurately identify the specific part of a tweet 
 ### Dataset
 The source of the dataset used is obtained from kaggle tweet sentiment extraction competition. Link https://www.kaggle.com/c/tweet-sentiment-extraction/overview
 
+### Pre-trained model
+Roberta_base model was downloaded from Hugging_face: https://huggingface.co/models and used to fine-tune on the given dataset.
+
 Key features include:
 
 Use of the pre-trained RoBERTa model for language representation.
