@@ -10,3 +10,7 @@ Key features include:
 Use of the pre-trained RoBERTa model for language representation.
 Fine-tuning using a custom convolutional neural network (CNN).
 Sentiment-aware tokenization and processing.
+
+Requirements can be found in the file called requirements.txt
+
+They can be installed using command: $pip install -r requirements.txt$
