@@ -13,4 +13,7 @@ Sentiment-aware tokenization and processing.
 
 Requirements can be found in the file called requirements.txt
 
-They can be installed using command: $pip install -r requirements.txt$
+They can be installed using command: 
+```
+pip install -r requirements.txt
+```
